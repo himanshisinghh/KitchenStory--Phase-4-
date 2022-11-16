@@ -1,0 +1,4 @@
+{
+    "url": "mongodb://localhost:3000/kitchenStoryDb",
+    "jwtSecret": "betapha45_765omega"
+}
